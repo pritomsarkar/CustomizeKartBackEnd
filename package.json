@@ -1,0 +1,26 @@
+{
+  "name": "customizekartbackend",
+  "version": "1.0.0",
+  "description": "E-Commerce ecosystem backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritomsarkar/CustomizeKartBackEnd.git"
+  },
+  "author": "pritom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritomsarkar/CustomizeKartBackEnd/issues"
+  },
+  "homepage": "https://github.com/pritomsarkar/CustomizeKartBackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
